@@ -1,6 +1,6 @@
 ## Olá, me chamo Filipe Guizzo Soares 👋
 
-Entusiasta por técnologia.
+Entusiasta por tecnologia.
 
 - 🔭 Estou cursando Técnico em informática (4/4)
 - 🌱 Estudando php  
