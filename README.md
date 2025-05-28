@@ -2,9 +2,8 @@
 
 Entusiasta por tecnologia.
 
-- 🔭 Estou cursando Técnico em informática (4/4)
-- 🌱 Estudando php  
-- 👤 Tenho 18 anos
+- 🔭 Formado em Tecnico de informatica e cursando engenheria da computação
+- 👤 Tenho 19 anos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
